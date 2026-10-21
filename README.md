@@ -21,3 +21,6 @@ A website that lets you upload videos and transcode them. The idea is to not foc
 
 
 
+
+## Project Update
+Updated project documentation for the Video Processing application.
